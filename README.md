@@ -3,7 +3,7 @@
 **Pharmacist turned GenAI engineer** — I build clinical AI agents grounded in real pharmacy knowledge (CPIC, AWaRe, pharmacokinetics).
 
 - 🎓 M.Pharm (Industrial Pharmacy) · Executive PG in Data Science & AI, IIIT-Bangalore (Deep Learning)
-- 🧪 4 years teaching pharmacokinetics & biopharmaceutics · 10 peer-reviewed publications
+- 🧪 4 years teaching pharmacokinetics & biopharmaceutics · 9 peer-reviewed publications (2 in Springer Nature)
 - 🛠️ Python · LangGraph · LangChain · FastAPI · RAG · Docker · Google Cloud Run · Claude & Gemini APIs
 - 📍 India · open to GenAI / healthcare AI roles
 
