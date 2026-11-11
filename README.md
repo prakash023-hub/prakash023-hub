@@ -12,7 +12,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**GenoFingerprint**](https://github.com/prakash023-hub/genofingerprint) | CPIC pharmacogenomics decision support: lab VCF → drug alerts → PDF + patient text in 8 languages. [Live demo](https://genofingerprint-105254876763.asia-south1.run.app/) | LangGraph · Claude · Gradio · Cloud Run |
-| [**AMRShield**](https://github.com/prakash023-hub/amrshield-agent) | Multi-agent antibiotic stewardship with a self-auditing agent and observability | LangGraph · Gemini · Arize Phoenix · Cloud Run |
+| [**AMRShield**](https://github.com/prakash023-hub/amrshield-agent) | Multi-agent antibiotic stewardship with a self-auditing agent and observability | Gemini · Arize Phoenix · Cloud Run |
 | [**PharmaOps Monitor**](https://github.com/prakash023-hub/pharmaops-monitor) | AI agent that detects GMP deviations and investigates root causes | Python · Splunk |
 | [**SpacePK**](https://github.com/prakash023-hub/spacepk) | Spaceflight pharmacokinetics modelling framework | Python · Streamlit |
 | [**AMS-Gemma4**](https://github.com/prakash023-hub/ams-gemma4) | Offline antibiotic stewardship AI for Indian hospitals | Gemma 4 |
